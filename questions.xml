@@ -37,7 +37,8 @@
 		<option>4 bytes</option> 
 		<option>8 bytes</option>
 		<option>16 bytes</option>
-		<answer>1,3</answer>
+		<answer>1</answer>
+		<answer>3</answer>
 	</question>
 	<question id='profe006'>
 		<type>multiple</type>
@@ -50,7 +51,10 @@
 		<option>BAT</option>
 		<option>JPG</option>
 		<option>RAR</option>
-		<answer>1,2,3,6</answer>
+		<answer>1</answer>
+		<answer>2</answer>
+		<answer>3</answer>
+		<answer>6</answer>
 	</question>
 	<question id='profe007'>
 		<type>checkbox</type>
