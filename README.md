@@ -1,2 +1,2 @@
 ### Tarea-4-LM
-Documento xml con su esquema dtd
+Document XML validat amb esquema DTD
